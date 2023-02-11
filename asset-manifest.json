@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokedux/static/css/main.ec162a94.css",
+    "main.js": "/Pokedux/static/js/main.e83f38a2.js",
+    "index.html": "/Pokedux/index.html",
+    "main.ec162a94.css.map": "/Pokedux/static/css/main.ec162a94.css.map",
+    "main.e83f38a2.js.map": "/Pokedux/static/js/main.e83f38a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec162a94.css",
+    "static/js/main.e83f38a2.js"
+  ]
+}
