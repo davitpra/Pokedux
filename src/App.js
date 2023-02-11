@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { Searcher } from './components/Searcher'
 import { PokemonList } from './components/PokemonList'
 import { Logo } from './statics/Logo'

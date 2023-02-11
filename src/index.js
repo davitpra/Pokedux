@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
-import "./App.css"
-import { Provider } from 'react-redux'
 import { applyMiddleware, compose, legacy_createStore as createStore } from 'redux'
+import { Provider } from 'react-redux'
 import { logger } from './middlewares'
 import thunk from 'redux-thunk'
 import rootReducer from './reducers/rootReducer'
+import "./App.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 
